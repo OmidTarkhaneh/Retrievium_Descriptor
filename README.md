@@ -1,5 +1,9 @@
 # Neural Network Potentials Using a Matrix-Based Descriptor
 
+<!-- Add an image in the header -->
+![Model Workflow](./Workflow.png)
+
+
 This reserach proposed an efficient ML potential for molecular energy prediction using  a matrix-based descriptor.
 
 ## Table of Contents
